@@ -1,20 +1,22 @@
 body{
-    background-color: azure;
-    margin: 10%;
+    background-color: #c8dad3;
 }
-
 h1{
-    color: blue;
-    text-align: center;
-
+    color: #ffffff;
 
 }
-h2{
-    color: darkblue;
-    font-style: italic;
-    text-align: center;
+.parent{
+    margin-top: 10px;
+    margin-bottom: 0;
+    height: 670px;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: #626f92;
+    box-shadow: 1px 0px 2px #ffffff;
 }
-
-p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.left{
+    background-size: center;
+    height: 670px;
+    border-radius: 10px 0 0 10px
 }
