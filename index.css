@@ -18,5 +18,11 @@ h1{
 .left{
     background-size: center;
     height: 670px;
-    border-radius: 10px 0 0 10px
+    border-radius: 10px 0 0 10px;
+    margin: 0;
+}
+.overlay{
+    background-color: rgba(0, 0, 0.8);
+    border-radius: 5px 0 0 5px;
+    height: 670px;
 }
