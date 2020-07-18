@@ -17,5 +17,7 @@
 
 ### License: [MIT] (https://github.com/Teddie98/Ghanian/blob/master/LICENSE)
 
+### Link to live website (https://teddie98.github.io/Ghanian/)
+
 ### Collaborate
     To collaborate reach me on mail provided on my repository.
