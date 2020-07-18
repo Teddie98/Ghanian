@@ -8,6 +8,14 @@
     Currently there are no bugs in the program.
 
 ### Technologies used
-    I have used HTML, CSS and JavaScript in its installation.
+    I have used 
+    HTML
+     CSS
+    JavaScript 
+    Bootstrap
+    Markdown
 
 ### License: [MIT] (https://github.com/Teddie98/Ghanian/blob/master/LICENSE)
+
+### Collaborate
+    To collaborate reach me on mail provided on my repository.
