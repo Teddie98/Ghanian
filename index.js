@@ -109,3 +109,10 @@ function checkGender(){
                     document.getElementById("result").innerHTML = "The day is on a saturday." + " " + "Your akan name is ama";
                   break;
 
+                }
+                break
+                default:
+                console.log("pass");//Test gender switch
+            }
+        }
+
