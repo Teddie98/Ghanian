@@ -34,3 +34,10 @@ function calculateDay(){
       return dayOfWeek;
     }
 }
+
+//main caller func
+function checkDayOfWeek(){
+    day = calculateDay();
+     checkGender();
+     console.log("The function runs");//Test chackDayOfWeek function
+}
